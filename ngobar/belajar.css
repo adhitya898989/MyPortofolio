@@ -1,0 +1,43 @@
+body{
+    background-color: darkseagreen;
+}
+.t1 {
+    text-align: right;
+}
+
+.t2{
+    text-align: right;
+        
+}
+
+a {
+    text-decoration: none;
+    color: blue;
+}
+
+a:hover{
+    color: red;
+}
+
+.hover:hover{
+    background-color: cornflowerblue;
+}
+
+.btn-login{
+    padding: 10px 40px;
+    font-size: x-large;
+    border: none;
+    background-color: cornflowerblue;
+    border-radius: 30px;
+}
+
+.btn-login:hover{
+    padding: 10px 40px;
+    font-size: x-large;
+    border: none;
+    background-color: blue;
+    color: aliceblue;
+}
+.btn-login a:hover{
+    color: aliceblue;
+}
